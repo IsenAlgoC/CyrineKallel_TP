@@ -12,7 +12,7 @@
 //La recherche se fait à l’aide d’une variable nommée Curseur de type pointeur d’entier et qui doit :
 // être correctement déclarée
 // être initialisée avec l’adresse du premier élément du tableau
-// parcourir toutes les positions du tableau afin de comparer l’élément pointé avec la valeur recherchée
+// parcourir toutes les positions du tableau afin de comparer l’élément pointé avec la valeur recherchéee
 
 
 #define SIZETAB 100
